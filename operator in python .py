@@ -204,3 +204,26 @@ print(x)'''
 # else:
 #     print("no")
 
+
+# membership operators:  in and not in
+# in : it return True when value is in text
+# not in : it return True when value is not in text
+
+
+#WAP to show the status if text contain "a" show yes else no
+# x=input("enter any text:")
+# if "a" in x:
+#     print("yes")
+# else:
+#     print("no")
+
+#WAP to check if alphabet is vowel then print("vowel")else "consonant"
+
+
+# x=input("enter any text:")
+# if "aeiou" in x :
+#     print("yes",x)
+# else:
+#     print("no")
+
+
