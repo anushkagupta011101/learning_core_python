@@ -158,3 +158,49 @@ print(x)
 x=6
 x**=3
 print(x)'''
+
+
+#Logical Operators: 
+# 1: and: if both conditions are true it will show true, and if any statment is wrong then it will show False
+# 2: or: if any of the condition is true , it will show true.
+# 3: not: not true= false, not false: True  ... it reverse conditions of And, or
+
+#WAP to print a number is between 20 5o 50 then show yes else show no
+# x= int(input("enter any number:"))
+# if x>=20 and x<=50:
+#     print("yes")
+# else: 
+#     print("no")
+
+
+# WAP to show if textis "a" or "b" thenshow yes
+
+# x=str(input("enter any text:"))
+# if x=="a" or x=="b":
+#   print("yes")
+# else:
+#   print("no")
+
+
+
+# MEMBERSHIP OPERATOR:  in and not in
+# in : it return True when value is in text
+# not in : it return True when value is not in text
+
+
+#WAP to show the status if text contain "a" show yes else no
+# x=input("enter any text:")
+# if "a" in x:
+#     print("yes")
+# else:
+#     print("no")
+
+#WAP to check if alphabet is vowel then print("vowel")else "consonant"
+
+
+# x=input("enter any text:")
+# if "aeiou" in x :
+#     print("yes",x)
+# else:
+#     print("no")
+
