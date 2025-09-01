@@ -248,3 +248,84 @@ print(x)'''
 # else:
 #   print("no")
 
+# conditional statement: it is an important funtion in python which is used print the statment by condition
+# #                       there are three block in python
+# #1: if  2: elif   3:else
+
+
+
+# # write a python program to print the if number is greater than 50 then show less Yes else show no
+  
+
+# x=25
+# if x>50:
+#     print("number is greater than 50")
+# else: 
+#     print("number is less than 50")
+
+
+# #---------------------------------------------------------------------------
+
+ # user input: used to accept the values from user. result of the input() is alaa
+
+ # x= int(input("enter any number:"))
+ # if x>100:
+ #     print(x,"yes")
+ # else: 
+ #     print(x,"n0")
+
+
+
+ # write a python program to check the number is less than 100 then print" below 100" else "above 100"
+
+ # x=int(input("enter any number:"))
+ # if x<100:
+ #     print(x,"below 100")
+ # else:
+ #     print(x,"above100")
+
+
+ # write a python program with the help of user input to check the number is even or odd
+ # x=int(input("enter any value:"))
+ # if x%2==0:
+ #     print(x,"even")
+ # else:
+ #     print(x,"odd")
+
+
+ # write a python program with help of user input to show the status if number is greater than 3 digit then show yes else no
+
+ # x= int(input("enter any number:"))
+ # if x>=100:
+ #     print(x,"yes")
+ # else:
+ #     print(x,no)
+
+ #-----------------------------------------------------------------------------------------------
+ # income tax calculator
+ # write a python program to show the interest by anual incomee
+ # income= float(input("enter any number:"))
+ # if income<300000:
+ #     print("no tax")
+ # elif income<700000:
+ #     print("5%",income*0.05)
+ # elif income<1000000:
+ #     print("10%",income*0.1)
+ # elif income<1200000:
+ #     print("15%",income*0.15)
+ # elif income<1500000:
+ #     print("20%",income*0.2)
+ # else:
+ #     print("30%",income*0.3)
+
+ # color= input("enter any color:")
+ # if (color =="red"):
+ #     print("stop")
+ # elif (color== "green"):
+ #     print("go")
+ # elif (color== "yellow"):
+ #     print("ready to go")
+ # else:
+ #     print("nothing")
+
+
