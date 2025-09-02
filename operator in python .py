@@ -368,6 +368,37 @@ print(x)'''
 # # else:
 # #     print("Grade D")
 
+lower: it convert all text in small letter
+# # title: it convert first alphabet in capital letter of each word 
+# x="programing language"
+# x=x.title()
+# print(x)
+
+# # #count= it counts elements from text or repetition of text.
+
+# x="anushka gupta is a student:"
+# x=x.count("a")
+# print(x)
+
+# x=" python is a programming language"
+# #show the length of text without space
+# y=len(x)-x.count(" ")
+# print(y)
+#or
+# x=" python is a programming language"
+# y=x.replace(" ","")
+# z=len(y)
+# print(z)
+
+# # wap to check the length of text is greater than 5 then all the text in capital letter else small
+
+# # x= input("enter any text:")
+# # y=x.upper()
+# # z=x.lower()
+# # if len(x)>5:
+# #     print(y)
+# # else:
+# #     print(z)
 
 
 
