@@ -329,3 +329,45 @@ print(x)'''
  #     print("nothing")
 
 
+
+
+
+
+
+
+# WaP to check if number between 1 to 20 then show "low", if number between 20 to 30 then show "mid",else high
+
+# # x= int(input("enter any number:"))
+# # if 1<=x<20:
+# #     print(x,"low")
+# # elif 20<=x<=30:
+# #     print(x,"mid")
+# # else:
+# #     print(x,"high")
+
+
+
+# # 
+# # wap with the help of user input to the grade of student by % 
+# # if % is greater than 50 then show "grade A"
+# #     if % is greater than 80 then show "grade A+
+# #         if % is greater than 70 then show "grade B
+# #             if % is greater than 60 then show "grade 
+# #                 else D
+
+
+# # x= int(input("enter any number:"))
+# # if x>90:
+# #     print("Grade A+")
+# # elif x>80:
+# #     print("Grade A")
+# # elif x>70:
+# #     print("Grade B")
+# # elif x>60:
+# #     print("Grade C")
+# # else:
+# #     print("Grade D")
+
+
+
+
