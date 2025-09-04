@@ -402,3 +402,88 @@ lower: it convert all text in small letter
 
 
 
+ WAP with the help of user input to check if number is divisible by 3 and 5 then show yes divisible else show not divisble
+# # x=int(input("enter any number:"))
+# # if x%3==0 and x%5==0:
+# #     print("yes divisible")
+# # else:
+# #     print("not ")
+
+# #WAP to print last digit of any number
+# x=int(input("enter any number:"))
+# y= x%10
+# print(y)
+
+
+# #INDEXING : are used to extract the character from the text. starts with zero.
+# # Types of indexing:
+# # i) Postive indexing: it work from starting to end.it starts with 0.
+# # ii) negative indexing: it starts from end . it starts with -1.
+
+# x="python"
+# print(x[-1])
+
+# #WAP with help of user input if name starts with "p,q,r,a,M" show yes
+
+# x=str(input("enter any text:"))
+# if x[0] in "pqram":
+#  print("yes",x)
+# else:
+#  print("no",x)
+    
+
+# #Wap to check if name starts with a and ends with "a"
+# # x=str(input("enter any text:"))
+# # if x[0]=="a" and x[-1]=="a":
+# #     print("yes")
+# # else:
+# #     print("no")
+
+# # wap with 3 user input to compare the largest
+# # x=int(input("enter first number:"))
+# # y=int(input("enter second number:"))
+# # z=int(input("enter third number:"))
+
+# # if x>y and x>z:
+# #     print("greatest number:",x)
+# # elif y>x and y>z:
+# #     print("greatest number: ",y)
+# # else:
+# #     print("greatest number:",z)
+
+# #FIND:it also show the position of elements from text.
+
+# #show the position of "a" from x
+# x="data science"
+# y =x.index("a")
+# print(y)
+# # # print("position of first a:",y)
+# y2=x.index("a",y+1)
+# print("position of second a",y2)
+
+# #NESTED IF 
+# # x=int(input("enter any number":))
+# # if x>50:
+# #     print("above 50")
+
+# #WAP using  user input to check the email and password
+# # email= "anushka0tanu@gmail.com"
+# # password="12334"
+
+
+# # mail=str(input("enter your email:"))
+# # if mail==email:
+# #     print("email is correct:",mail)
+# #     tanu=input("enter your password:")
+# #     if tanu== password:
+# #         print("password is correct:",tanu)
+# # else:
+# #     print("invalid")
+
+# #replace: it replace old text with a new text.
+# # x="India"
+# # y=x.replace("i","k")
+# # print(y)
+
+
+
