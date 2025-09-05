@@ -486,4 +486,95 @@ lower: it convert all text in small letter
 # # print(y)
 
 
+# # SLICING: used to extract a range of character from text.first index is included and the terminal index is excluded.
+
+# # types: i) positive slicing; starting of the text.
+# x="programing"
+# if x[0:3]=="pro":
+
+#     print("present")
+
+# x="himachal pradesh"
+# y=x[2:6]
+# print(y)
+
+# y=x[-4:]
+# print(y)
+
+
+
+# # y=x[0:4]
+# # print(y)
+
+# # y=x[1:5]
+# # print(y)
+
+# # y=x[-6:-2]
+# # print(y)
+
+
+# # # # ii) negative slicing: starts from the end of the text.
+
+# #x="arunachal pradesh"
+
+# # extract text using negative slicing
+# # y=x[-9:-4]
+# # print(y)
+
+
+# # y=x[-10:-5]
+# # print(y)
+
+
+#  x="arunachal pradesh"
+
+# x=x.upper()
+# y=x[-3:]
+# print(y)
+
+
+# #to reverse any text code is x=x[-1::-1]
+# x="tanu"
+# y=x[-1::-1]
+# print(y)
+
+# # x="himachal pradesh"
+# # y=x[0:5:2]
+# # print(y)
+
+
+
+# # y=x[-6:-1:2]
+# # print(y)
+
+# # y=x[0:10:3]
+# # print(y)
+
+# #i) reverse first three alphabet from text
+# wap to convert first and last aplphabet in capital letter and rest in small letter.
+# x="himachal pradesh"
+# y=x[2::-1]
+# print(y)
+
+
+
+#
+# ii)
+# x=str(input("enter any name:"))
+
+
+# a=x[0].upper()
+# b=x[-1].upper()
+# c=x[1:-1].lower()
+# t=a+c+b
+# print(t)
+
+
+
+
+
+
+
+
+
 
