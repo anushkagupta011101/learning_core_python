@@ -570,6 +570,34 @@ lower: it convert all text in small letter
 # print(t)
 
 
+#------------------------------------------------------------------------
+# #STRIP: it deletes extra space from starting and ending of the text.
+# x="   python   is a   language  "
+# y=x.strip()
+# print(y)
+
+
+# #SPLIT: it divide the text and convert in list based on delimeter. convert str into list
+# x="India is my country"
+# y=x.split()
+# print(y)
+
+
+# #JOIN: it convert a list into a string.  "delimeter".join(variable)
+# x=["tanu","gupta"]
+# y=",".join(x)
+# print(y)
+
+# x="uttar pradesh"
+
+
+# #reverse
+
+# x=x.split()
+# x=x[-1::-1]
+# x=" ".join(x)
+# print(x)
+
 
 
 
