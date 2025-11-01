@@ -1,7 +1,7 @@
 # ______________________________________________________________________________________
 # Author: Anushka Gupta
 
-# -------------------------------------------- INTRODUCTION TO PYTHON ---------------------------------------------------
+# -------------------------------------------- INTRODUCTION TO PYTHON ----------------------------------------------
 
 # ******** WHAT IS PYTHON? **********
 
@@ -55,3 +55,4 @@
 #  - PyCharm (feature-rich IDE)
 # - Jupyter Notebook (best for data science)
 # - IDLE (comes built-in with Python)
+
